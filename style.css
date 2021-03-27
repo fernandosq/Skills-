@@ -115,11 +115,40 @@ font-weight: 500;
     color: #fff;
     margin: 5px 0;
 }
-.container .card .box .contend ul li .fa-check{
-    color: #0f0;
+.container .card .box .contend ul li .fa-html5{
+    color: #e34c26;
 }
-.container .card .box .contend ul li .fa-times{
+.container .card .box .contend ul li .fa-css3-alt{
+    color: #264de4;
+}
+.container .card .box .contend ul li .fa-js-square{
+    color: #f0db4f;
+}
+.container .card .box .contend ul li .fa-angular{
+    color: #dd1b16;
+}
+.container .card .box .contend ul li .fa-react{
+    color: #61DBFB;
+}
+.container .card .box .contend ul li .fa-python{
+    color: #4B8BBE;
+}
+.container .card .box .contend ul li .fa-node{
+    color: #68A063;
+}
+.flask{
     color: #f00;
+}
+.container .card .box .contend ul li .fa-docker{
+    color: #0db7ed;
+}
+.container .card .box .contend ul li .fa-connectdevelop{
+    color: #f00;
+}
+
+
+#mongo{
+    color: #036424;
 }
 .container .card .box .contend a{
     position: relative;
