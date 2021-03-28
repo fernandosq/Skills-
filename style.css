@@ -190,7 +190,7 @@ font-weight: 500;
 
 
 }
-.name{
+#name{
     position: absolute;
     top: 800px;
     left: calc(50%-30%);
@@ -223,7 +223,7 @@ body.light .toggle{
     background:#154f56 ;
     color: #fff;
 }
-body.light .name{
+body.light #name{
     position: absolute;
     top: 800px;
     left: calc(50%-30%);
