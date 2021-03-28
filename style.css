@@ -190,6 +190,14 @@ font-weight: 500;
 
 
 }
+.name{
+    position: absolute;
+    top: 800px;
+    left: calc(50%-30%);
+    color:#fff;
+    font-size: large;
+
+}
 
 .toggle{
     position: absolute;
@@ -215,6 +223,15 @@ body.light .toggle{
     background:#154f56 ;
     color: #fff;
 }
+body.light .name{
+    position: absolute;
+    top: 800px;
+    left: calc(50%-30%);
+    color:#32a3b1;
+    font-size: large;
+
+
+}
 body.light .toggle::before{
 
     content: '\f186';
@@ -233,9 +250,7 @@ body.light .container .card{
     
 
 }
-.container  .card{
 
-}
 
 body.light .container  .card .box{
     background: #ebf5fc;
